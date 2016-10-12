@@ -24,4 +24,4 @@ Using the `widget`
   </FooWidget>
 ```
 
-![alt text](inbox_app.png "Logo Title Text 1" )
+![alt text](https://raw.githubusercontent.com/abusafa/react-admin-template-doc/master/inbox_app.png "Logo Title Text 1" )
