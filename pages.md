@@ -151,7 +151,6 @@ Configuring the route
 
 
 
-
 # 404 Page
 
 ## Importing the page module `Page404`.
