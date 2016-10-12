@@ -1,44 +1,146 @@
-# Apps
+
+# Inbox App
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
 
 
-## Inbox App
+# Contacts App
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
 
+```js
+import InboxApp from './Apps/InboxApp';
+```
 
-## Contacts App
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-
-## Messages App
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-
-## Projects App
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![alt text](inbox_app.png "Logo Title Text 1" )
 
 
-
-## Support App
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# Messages App
 
 
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
 
-## Tassks App
+```js
+import InboxApp from './Apps/InboxApp';
+```
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
+
+
+
+# Projects App
+
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
+
+
+
+# Support App
+
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
+
+
+
+# Tassks App
+
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
 
 
 
 ## Calendar App
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
 
 
-## Todo App
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# Todo App
+
+
+### Import the app module `InboxApp`.
+> Apps are found in the `./src/Apps` folder.
+
+```js
+import InboxApp from './Apps/InboxApp';
+```
+
+Configure the route
+```html
+<Route path="inbox/" component={InboxApp}/>
+```
+
+![alt text](inbox_app.png "Logo Title Text 1" )
