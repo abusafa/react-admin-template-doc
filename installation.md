@@ -24,6 +24,15 @@ Or build a production SPA :
 ➔ npm run build
 ```
 
+You may also serve it locally with a static server:
+
+```
+  npm install -g pushstate-server
+  pushstate-server build
+```
+  open http://localhost:9000
+
+
 
 ## Available Scripts
 
